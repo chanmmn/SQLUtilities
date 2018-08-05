@@ -1,0 +1,7 @@
+C:\dev2\SQLUtilities\ConAppBackup\bin\Debug\ConAppBackup.exe.config
+C:\dev2\SQLUtilities\ConAppBackup\bin\Debug\ConAppBackup.exe
+C:\dev2\SQLUtilities\ConAppBackup\bin\Debug\ConAppBackup.pdb
+C:\dev2\SQLUtilities\ConAppBackup\obj\Debug\ConAppBackup.csprojAssemblyReference.cache
+C:\dev2\SQLUtilities\ConAppBackup\obj\Debug\ConAppBackup.csproj.CoreCompileInputs.cache
+C:\dev2\SQLUtilities\ConAppBackup\obj\Debug\ConAppBackup.exe
+C:\dev2\SQLUtilities\ConAppBackup\obj\Debug\ConAppBackup.pdb

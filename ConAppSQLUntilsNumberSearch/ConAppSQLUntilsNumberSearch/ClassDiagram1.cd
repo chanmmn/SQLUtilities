@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleAppSQLUntils.SQLUtils">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAQACgAAIAABAAAAAAAAQQAgAAAAAAAAAAAAgA=</HashCode>
+      <FileName>SQLUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleAppSQLUntils.ConnParameters">
+    <Position X="7.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>ConnParameters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

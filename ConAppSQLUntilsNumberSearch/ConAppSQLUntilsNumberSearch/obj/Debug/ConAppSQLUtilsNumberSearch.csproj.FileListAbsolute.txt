@@ -1,0 +1,6 @@
+C:\dev2\SQLUtilities\ConAppSQLUntilsNumberSearch\ConAppSQLUntilsNumberSearch\bin\Debug\ConsoleAppSQLUntils.exe
+C:\dev2\SQLUtilities\ConAppSQLUntilsNumberSearch\ConAppSQLUntilsNumberSearch\bin\Debug\ConsoleAppSQLUntils.pdb
+C:\dev2\SQLUtilities\ConAppSQLUntilsNumberSearch\ConAppSQLUntilsNumberSearch\obj\Debug\ConAppSQLUtilsNumberSearch.csprojResolveAssemblyReference.cache
+C:\dev2\SQLUtilities\ConAppSQLUntilsNumberSearch\ConAppSQLUntilsNumberSearch\obj\Debug\ConAppSQLUtilsNumberSearch.csproj.CoreCompileInputs.cache
+C:\dev2\SQLUtilities\ConAppSQLUntilsNumberSearch\ConAppSQLUntilsNumberSearch\obj\Debug\ConsoleAppSQLUntils.exe
+C:\dev2\SQLUtilities\ConAppSQLUntilsNumberSearch\ConAppSQLUntilsNumberSearch\obj\Debug\ConsoleAppSQLUntils.pdb

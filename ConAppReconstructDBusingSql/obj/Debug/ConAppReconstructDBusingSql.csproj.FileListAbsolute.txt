@@ -1,0 +1,8 @@
+C:\dev2\SQLUtilities\ConAppReconstructDBusingSql\bin\Debug\ExpIncPm.sql
+C:\dev2\SQLUtilities\ConAppReconstructDBusingSql\bin\Debug\ConAppReconstructDBusingSql.exe.config
+C:\dev2\SQLUtilities\ConAppReconstructDBusingSql\bin\Debug\ConAppReconstructDBusingSql.exe
+C:\dev2\SQLUtilities\ConAppReconstructDBusingSql\bin\Debug\ConAppReconstructDBusingSql.pdb
+C:\dev2\SQLUtilities\ConAppReconstructDBusingSql\obj\Debug\ConAppReconstructDBusingSql.csprojAssemblyReference.cache
+C:\dev2\SQLUtilities\ConAppReconstructDBusingSql\obj\Debug\ConAppReconstructDBusingSql.csproj.CoreCompileInputs.cache
+C:\dev2\SQLUtilities\ConAppReconstructDBusingSql\obj\Debug\ConAppReconstructDBusingSql.exe
+C:\dev2\SQLUtilities\ConAppReconstructDBusingSql\obj\Debug\ConAppReconstructDBusingSql.pdb
