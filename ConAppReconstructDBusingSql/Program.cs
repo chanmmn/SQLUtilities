@@ -12,7 +12,7 @@ namespace ConAppReconstructDBusingSql
         {
             string strServer = "172.18.123.74";
             string strUid = "sa";
-            string strPwd = "Pass123!@#";
+            string strPwd = "password";
             string strDb = "Dashboard15";
 
             string strconn = "Data Source=" + strServer +
@@ -24,7 +24,7 @@ namespace ConAppReconstructDBusingSql
 
             strServer = "172.18.123.74";
             strUid = "sa";
-            strPwd = "Pass123!@#";
+            strPwd = "password";
             strDb = "ExpIncPm";
 
             strconn = "Data Source=" + strServer +

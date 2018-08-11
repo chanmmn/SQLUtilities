@@ -15,7 +15,7 @@ namespace ConAppGenerateScriptsForAllDBs
         {
             string strServer = "172.18.123.105";
             string strUid = "sa";
-            string strPwd = "Pass123!@#";
+            string strPwd = "password";
             string strDb = "Dashboard15";
 
             string strconn = "Data Source=" + strServer +
