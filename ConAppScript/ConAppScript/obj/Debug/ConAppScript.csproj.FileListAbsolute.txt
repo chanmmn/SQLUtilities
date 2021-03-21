@@ -11,3 +11,12 @@ C:\test\other\sql\ConAppScript\ConAppScript\obj\Debug\ConAppScript.csproj.CoreCo
 C:\test\other\sql\ConAppScript\ConAppScript\obj\Debug\ConAppScript.csproj.CopyComplete
 C:\test\other\sql\ConAppScript\ConAppScript\obj\Debug\ConAppScript.exe
 C:\test\other\sql\ConAppScript\ConAppScript\obj\Debug\ConAppScript.pdb
+C:\mydata\k365labs\OneDrive - K365labs Sdn Bhd\Documents\GitHub\SQLUtilities\ConAppScript\ConAppScript\bin\Debug\ConAppScript.exe.config
+C:\mydata\k365labs\OneDrive - K365labs Sdn Bhd\Documents\GitHub\SQLUtilities\ConAppScript\ConAppScript\bin\Debug\ConAppScript.exe
+C:\mydata\k365labs\OneDrive - K365labs Sdn Bhd\Documents\GitHub\SQLUtilities\ConAppScript\ConAppScript\bin\Debug\ConAppScript.pdb
+C:\mydata\k365labs\OneDrive - K365labs Sdn Bhd\Documents\GitHub\SQLUtilities\ConAppScript\ConAppScript\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\mydata\k365labs\OneDrive - K365labs Sdn Bhd\Documents\GitHub\SQLUtilities\ConAppScript\ConAppScript\obj\Debug\ConAppScript.csprojAssemblyReference.cache
+C:\mydata\k365labs\OneDrive - K365labs Sdn Bhd\Documents\GitHub\SQLUtilities\ConAppScript\ConAppScript\obj\Debug\ConAppScript.csproj.CoreCompileInputs.cache
+C:\mydata\k365labs\OneDrive - K365labs Sdn Bhd\Documents\GitHub\SQLUtilities\ConAppScript\ConAppScript\obj\Debug\ConAppScript.csproj.CopyComplete
+C:\mydata\k365labs\OneDrive - K365labs Sdn Bhd\Documents\GitHub\SQLUtilities\ConAppScript\ConAppScript\obj\Debug\ConAppScript.exe
+C:\mydata\k365labs\OneDrive - K365labs Sdn Bhd\Documents\GitHub\SQLUtilities\ConAppScript\ConAppScript\obj\Debug\ConAppScript.pdb
