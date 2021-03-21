@@ -1,0 +1,13 @@
+C:\test\other\sql\ConAppScript\ConAppScript\bin\Debug\ConAppScript.exe.config
+C:\test\other\sql\ConAppScript\ConAppScript\bin\Debug\ConAppScript.exe
+C:\test\other\sql\ConAppScript\ConAppScript\bin\Debug\ConAppScript.pdb
+C:\test\other\sql\ConAppScript\ConAppScript\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\test\other\sql\ConAppScript\ConAppScript\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\test\other\sql\ConAppScript\ConAppScript\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\test\other\sql\ConAppScript\ConAppScript\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\test\other\sql\ConAppScript\ConAppScript\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\test\other\sql\ConAppScript\ConAppScript\obj\Debug\ConAppScript.csprojAssemblyReference.cache
+C:\test\other\sql\ConAppScript\ConAppScript\obj\Debug\ConAppScript.csproj.CoreCompileInputs.cache
+C:\test\other\sql\ConAppScript\ConAppScript\obj\Debug\ConAppScript.csproj.CopyComplete
+C:\test\other\sql\ConAppScript\ConAppScript\obj\Debug\ConAppScript.exe
+C:\test\other\sql\ConAppScript\ConAppScript\obj\Debug\ConAppScript.pdb
